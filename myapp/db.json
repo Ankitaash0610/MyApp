@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "studentId": 1,
+      "firstName": "Ankita ",
+      "lastName": "Giri",
+      "instituteName": "Techno India",
+      "courseName": "Mechanical",
+      "password": "12457890",
+      "id": 1
+    },
+    {
+      "studentId": 2,
+      "firstName": "Ankit",
+      "lastName": "ranchi",
+      "instituteName": "bits pilani",
+      "courseName": "IT",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "studentId": 3,
+      "firstName": "Sachin",
+      "lastName": "Sharma",
+      "instituteName": "NMIET",
+      "courseName": "IT",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "studentId": 4,
+      "firstName": "Dia",
+      "lastName": "mirza",
+      "instituteName": "INDRA",
+      "courseName": "Civil",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "studentId": 5,
+      "firstName": "Ankita ",
+      "lastName": "Giri",
+      "instituteName": "Chinmaya",
+      "courseName": "Mechanical",
+      "password": "12345678",
+      "id": 5
+    }
+  ]
+}
